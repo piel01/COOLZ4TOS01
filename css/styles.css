@@ -1,0 +1,40 @@
+
+body {
+    background-image: url(../images/camera1.jpg);
+}
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: springgreen;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.paragraph-1 {
+    color: lawngreen;
+    text-align: right;
+}
+p2 {
+    color: lawngreen;
+    text-align: right;
+    margin-left: 60%;
+}
+p3 {
+    color: orange;
+}
+p4 {
+    color: yellow;
+}
+p5 {
+    color: violet;
+    font-weight: bolder;
+}
+p6 {
+    color: lawngreen;
+    margin-left: 45%;
+    margin-bottom: 15px;
+}
+p7 {
+    color: orangered;
+}
