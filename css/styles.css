@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(/images/camera1.jpg);
+    background-image: url(./images/camera1.jpg);
 }
 h1 {
     color: red;
