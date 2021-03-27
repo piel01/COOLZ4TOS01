@@ -1,5 +1,9 @@
 body {
-    background-color: indigo;
+    background-color: rgb(7, 7, 34);
+    background-image: url(../images/coder.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
 }
 h1 {
     color: red;
